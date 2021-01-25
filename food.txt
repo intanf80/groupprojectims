@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+      <head>
+            <title>Food</title>
+	     <style>
+	a:link, a:visited
+	    {
+	    	background-color: maroon;
+	    	color: whitesmoke;
+	    	padding: 15px;
+	    	text-align: center;
+	    	text-decoration: none;
+	    	display: inline-block;
+	    	border-radius: 25px;
+	    }
+ 
+    a:hover, a:active
+        {
+        	background-color: skyblue;
+        }
+
+	      </style>	 
+     </head>
+<body>
+
+<hr>
+
+ <!--internal links-->
+<a href="index.html">Home</a>
+
+
+<!--external links-->
+<a href="Food.html">Food</a>
+<a href="Historical.html">Historical</a>
+<a href="Top places.html">Top places</a>
+<a href="Accomodation.html">Accomodation</a>
+
+<center><h1 style="background-color:salmon"> Five Interesting Food Places in Kelantan</h1></center>
+
+<center><h2 style="border:4px dashed peru">1. Warung Badik2</h2></center>
+<center><p> Place that provide delicious Bingsu, Bihun Soup, Kueyteow Soup, Mee Goreng, Corndog and fruit juice. This place is suitable for all segmentations. It is located in Jalan Pengkalan Chepa heading to the airport. Their operations hours are 3.30 pm until 11.00 pm and will be closed on Sunday only. They are provide a lower price for their foods</p></center>
+<center><img src="warungbadik2.jpg" height="400px" width="400px">
+<img src="warungbadik.JPG" height="400px" width="400px">
+<img src="warungbadik1.JPG" height="400px" width="400px"></center>
+
+<center><h2 style="border:4px dashed peru">2. Nasi Ulam Cikgu</h2></center>
+<center><p> This restaurant is provide variety of traditional and Kampong  food such as Ulam, Kuah Singgang, Ikan Bakar, Budu, Sambal Belacan and a lot of delicious foods. It was located in Kampung Kraftangan, Jalan Hilir Kota, Bandar Kota Bharu, 15300 Kota Bharu, Kelantan. Their operation hours are 11 am until 5 pm and will close in Friday only. The price is lower and affordable</p></center>
+<center><img src="nasiulamcikgu1.JPG" height="400px" width="400px">
+<img src="nasiulamcikgu2.JPG" height="400px" width="400px">
+<img src="nasiulamcikgu.JPG" height="400px" width="400px"></center>
+
+<center><h2 style="border:4px dashed peru">3. Kopi Mesin</h2></center>
+<centre><p> This cafe is so popular that there was a long queue all the way to the entrance. We came here one night to try their popular coffee and chocolate drinks menu together with the large crowd. Customers are able to view the selection on the large board at the counter before placing their orders. The drinks start from RM 2.50-RM6.00 and it includes latte macchiato, German ice coffee, iced lychee tea, as well as Blue Lagoon. It was located Lot 572 Batu 3½, Jalan Sultan Yahya Petra, Kubang Kerian, 16150 Kota Bharu, Kelantan. Their operation hour is 10 am until 1 am daily</p></center>
+<center><img src="kopimesin.jpg" height="300px" width="300px">
+<img src="kopimesin1.jpg" height="300px" width="300px">
+<img src="kopimesin2.jpg" height="300px" width="300px"></center>
+
+<center><h2 style="border:4px dashed peru">4. Acu Tera</h2></center>
+<centre><p> This restaurant is nearby at Pantai Sabak in Kelantan. There sell variety of seafood Celup Tepung. They sell foods with affordable price such as Sotong Celup Tepung (RM10), Udang Celup Tepung (RM10), KeRANG (RM10) and Ikan (RM6)</p></center>
+<center><img src="acutera2.jpg" height="300px" width="300px">
+<img src="acutera1.JPG" height="300px" width="300px">
+<img src="acutera.JPG" height="300px" width="300px"></center>
+
+<center><h2 style="border:4px dashed peru">5. Coffee Squad</h2></center>
+<centre><p> A good place to have coffee. Menus include grilled /fried chicken chop, meatball, spaghetti, toast, mushroom soup and burger among others. You can have hot or iced coffee and Frappuccino. There's an air-conditioned dining space or if you fancy fresh air, just eat at the table outside. Nice coffee experience with reasonable price. It is recommended<p></center>
+<center><img src="coffeeasquad.jpg" height="300px" width="300px">
+<img src="coffeesquad1.JPG" height="300px" width="300px">
+<img src="coffeesquad2.JPG" height="300px" width="300px"></center>
+<hr>
+<center><button><a href="index.html">Back</a></button></center>
+<hr>
+<center><button><a href="Historical.html">Next</a></button></center>
+
+
+<link rel="stylesheet" type="text/css" href="style.css">
+	      <link href="https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Merienda:wght@700&display=swap" rel="stylesheet">
+	      <link href="https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap" rel="stylesheet">
+
+</body>
+</html>

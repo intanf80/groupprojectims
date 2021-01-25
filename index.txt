@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title>VISIT KELANTAN</title>
+    <head/>
+ 
+ <style>
+	a:link, a:visited
+	    {
+	    	background-color: maroon;
+	    	color: whitesmoke;
+	    	padding: 15px;
+	    	text-align: center;
+	    	text-decoration: none;
+	    	display: inline-block;
+	    	border-radius: 25px;
+	    }
+ 
+    a:hover, a:active
+        {
+        	background-color: skyblue;
+        }
+
+</style>	
+
+<!--internal links-->
+<a href="index.html">Home</a>
+
+
+<!--external links-->
+<a href="food.html">Food</a>
+<a href="Historical.html">Historical</a>
+<a href="Top places.html">Top places</a>
+<a href="Accomodation.html">Accomodation</a>
+
+<center><img src="welcome2.gif" height="300px" width="1000px"></center>
+<center><h2 style="font-size: 45px">TO KELANTAN</h2></center>
+<center><h2 style="background-color:lightseagreen; border-radius:10px">Malaysia’s northeasternmost state is often considered to be a waypoint between Thailand and the white-sand beaches of Pulau Perhentian, Redang or Kapas. Those who don’t linger miss out experiencing a stronghold of traditional Malay culture and one of Southeast Asia’s great buffer zones, combining a distinctive blend of Malay, Chinese, Indian and Thai cultures.<center></h2>
+
+<hr>
+<center><img src="kelantan.jpg" heigh=430px width=300px>
+<img src="dikirbarat.jpg" heigh=430px width=300px>
+<img src="cultural.jpg" heigh=430px width=300px>
+<img src="wau.jpg" heigh=430px width=300px></center>
+<hr>
+
+
+<body>
+<center><h2 style="font-size:50px">INFORMATION ABOUT KELANTAN <img src="moreinformation.png" height="200px" width="150px"></h2></center>
+<center><h3 style="border:4px dashed peru">STATE:KELANTAN DARUL NAIM</h3></center>
+<center><h3 style="border:4px dashed peru">AREA: 14922 Square KM</h3></center>
+<center><h3 style="border:4px dashed peru">STATE CAPITAL: KOTA BHARU</h3></center>
+
+<h3 style="font-size: 30px"></h3>
+
+<button><a href="food.html">Next</a></button>
+
+<link rel="stylesheet" type="text/css" href="style.css">
+	      <link href="https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Merienda:wght@700&display=swap" rel="stylesheet">
+	      <link href="https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap" rel="stylesheet">
+
+
+</body>
+</html>
